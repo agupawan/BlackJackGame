@@ -1,0 +1,28 @@
+body{
+    background: #034d03;
+}
+h1{
+    color: goldenrod;
+    text-align: center;
+    font-size: 100px;
+}
+p{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 40px;
+}
+button{
+    display: block;
+    margin: 10px auto;
+    background-color: goldenrod;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 40px;
+    color:#034d03 ;
+    border:none;
+    border-radius: 5px;
+}
+button.newCard{
+    padding:10px 50px;
+}
